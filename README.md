@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261125/chsxy529/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![reward](https://make.fun/badge/news-image-20261125/chsxy529/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
-One image that sums up the world's news of Wednesday 25 November 2026: a newspaper front page led by Iran's claim that tankers hit naval mines in the Strait of Hormuz, with the US proposing new tariffs on 14 partners, the KOSPI's 6.16% plunge, Pakistan's first astronaut reaching orbit aboard Shenzhou-24 and the Solomon Islands treaty with Australia, plus the Ukraine refinery strikes, the Cartagena hostage rescue and the Cairo tanker crash in the footer.
+One image that sums up the world's news of Wednesday 25 November 2026: a newspaper front page led by Iran saying tankers hit mines in the Strait of Hormuz, with the US proposing new tariffs on 14 partners, the KOSPI plunging 6.16%, Pakistan's first astronaut reaching orbit aboard Shenzhou-24, and the Solomon Islands picking Australia as security partner.
 
 ## Run it
 
